@@ -1,0 +1,19 @@
+.controls {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(119, 86, 158);
+    color: white;
+    margin: -8px;
+    margin-top: 41%;
+    height: 142px;
+}
+
+.instructions {
+    display: flex;
+}
+
+h4 {
+    padding: 10px;
+}
